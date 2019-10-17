@@ -1,3 +1,6 @@
-Use tripple quotes ''' to create a multi-line string in Python. Just simple as that. Take care of indentation withing the quotes.
+
+
+Use tripple quotes ''' to create a multi-line string in Python.
+Just simple as that. Take care of indentation withing the quotes.
 
 #variable #string #tripplequote #python #python3 #devlopment #programming #it #coding #program #programmer #programminglanguage #code #coding

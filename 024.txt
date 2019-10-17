@@ -1,3 +1,5 @@
+
+
 Omit one of the range ends to get everything from the beginning or from the end of a string
 
 #range #string #substring #beginning #end #openrange

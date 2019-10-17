@@ -1,4 +1,5 @@
-To append a list to another list, use the "+" operator. So simple as that.
+To append a list to another list,
+use the "+" operator. So simple as that.
 
 #array #plus #operator #plusoperator #addition #append #prepend #list #array
 #python #python3 #devlopment #programming #it #coding #program #programmer #programminglanguage #code #coding

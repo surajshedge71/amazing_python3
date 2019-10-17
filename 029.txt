@@ -1,4 +1,7 @@
-You can operate with sets as in math. For example, use the "-" operator to remove all the elements from the second set that are there in the first one too.
+
+You can operate with sets as in math.
+For example, use the "-" operator to
+remove all the elements from the second set that are there in the first one too.
 
 #set #sets #datatype #setdatatype #minus #subtract
 #python #python3 #devlopment #programming #it #coding #program #programmer #programminglanguage #code #coding
